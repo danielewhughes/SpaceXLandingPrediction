@@ -26,7 +26,16 @@ cd SpaceXLandingPrediction
 ```
 
 ### 2) Create and Activate a Virtual Environment
+```bash
+python -m venv .venv
+# macOS/Linux
+source .venv/bin/activate
+# Windows
+.venv\Scripts\activate
+
+```
 
 ### 3) Install Dependencies
-minimal set: pandas, numpy, matplotlib, seaborn, scikit-learn, requests, jupyter
-
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn requests jupyter
+```
