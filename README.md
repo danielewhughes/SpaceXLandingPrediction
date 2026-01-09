@@ -23,6 +23,7 @@
 ```bash
 git clone https://github.com/danielewhughes/SpaceXLandingPrediction.git
 cd SpaceXLandingPrediction
+```
 
 ### 2) Create and Activate a Virtual Environment
 
